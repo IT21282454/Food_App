@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-merged_res-33:\\drawable_baseline_delete_24.xml.flat",
+        "source": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-main-35:\\drawable\\baseline_delete_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-merged_res-33:\\font_poppins_thin.xml.flat",
+        "source": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-main-35:\\font\\poppins_thin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-merged_res-33:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-main-35:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-merged_res-33:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-main-35:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-merged_res-33:\\layout_activity_food_update_dialog_box.xml.flat",
+        "source": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-main-35:\\layout\\activity_food_update_dialog_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-merged_res-33:\\drawable_category.png.flat",
+        "source": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-main-35:\\drawable\\category.png"
+    },
+    {
+        "merged": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-merged_res-33:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-main-35:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-merged_res-33:\\drawable_food.jpg.flat",
+        "source": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-main-35:\\drawable\\food.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-main-35:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-merged_res-33:\\layout_activity_edit_foods.xml.flat",
+        "source": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-main-35:\\layout\\activity_edit_foods.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-merged_res-33:\\font_poppins_semibold.xml.flat",
+        "source": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-main-35:\\font\\poppins_semibold.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-merged_res-33:\\font_poppins_bold.xml.flat",
+        "source": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-main-35:\\font\\poppins_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-main-35:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-merged_res-33:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-main-35:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-main-35:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-merged_res-33:\\drawable_bike_ride.jpg.flat",
+        "source": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-main-35:\\drawable\\bike_ride.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-merged_res-33:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-main-35:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.nsb.myproject.app-merged_res-33:/drawable_app_icon.jpg.flat",
+        "source": "com.nsb.myproject.app-main-35:/drawable/app_icon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-merged_res-33:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-merged_res-33:\\layout_activity_stock_dashboard.xml.flat",
+        "source": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-main-35:\\layout\\activity_stock_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-merged_res-33:\\drawable_outline_settings_24.xml.flat",
+        "source": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-main-35:\\drawable\\outline_settings_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-merged_res-33:\\font_poppins.xml.flat",
+        "source": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-main-35:\\font\\poppins.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-merged_res-33:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-main-35:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-merged_res-33:\\layout_activity_one_category.xml.flat",
+        "source": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-main-35:\\layout\\activity_one_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-merged_res-33:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-main-35:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-merged_res-33:\\layout_activity_view_food.xml.flat",
+        "source": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-main-35:\\layout\\activity_view_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-main-35:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-merged_res-33:\\layout_activity_add_food.xml.flat",
+        "source": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-main-35:\\layout\\activity_add_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-main-35:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-merged_res-33:\\drawable_round_corners.xml.flat",
+        "source": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-main-35:\\drawable\\round_corners.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-merged_res-33:\\drawable_baseline_add_circle_outline_24.xml.flat",
+        "source": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-main-35:\\drawable\\baseline_add_circle_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-merged_res-33:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-main-35:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-merged_res-33:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-main-35:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-merged_res-33:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-main-35:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-merged_res-33:\\layout_activity_one_food.xml.flat",
+        "source": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-main-35:\\layout\\activity_one_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-merged_res-33:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-main-35:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-merged_res-33:\\layout_activity_add_new_category.xml.flat",
+        "source": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-main-35:\\layout\\activity_add_new_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-merged_res-33:\\layout_activity_customer_view_catergory.xml.flat",
+        "source": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-main-35:\\layout\\activity_customer_view_catergory.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-merged_res-33:\\drawable_order_food.png.flat",
+        "source": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-main-35:\\drawable\\order_food.png"
+    },
+    {
+        "merged": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-merged_res-33:\\layout_activity_customer_view_foods.xml.flat",
+        "source": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-main-35:\\layout\\activity_customer_view_foods.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-merged_res-33:\\layout_activity_view_categories.xml.flat",
+        "source": "C:\\Users\\Nethma\\.gradle\\daemon\\7.5\\com.nsb.myproject.app-main-35:\\layout\\activity_view_categories.xml"
+    }
+]
